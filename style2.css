@@ -1,0 +1,11 @@
+#bg{
+   background-image:url('https://www.pizzababy.co.za/wp-content/themes/pizzababyonlinestore/img/home-combo-ingredients-right.png');
+   background-size:cover ;
+    
+}
+#box{
+box-sizing: border-box;
+}
+#bg2{
+   background-color: rgb(65, 138, 159);
+}

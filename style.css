@@ -1,0 +1,27 @@
+ #bg{
+    background-image: url('https://raw.githubusercontent.com/luisSuela/Stranger-Code/master/foodd.jpg');
+    background-size: cover;
+ }    
+#text{
+    width:auto;
+    border: 1px solid blade;
+     color:white;
+
+}
+#shadow{
+    font-size:larger;
+    text-shadow: 5px 10px 5px black;
+}
+#text1{
+    color:rgb(23, 85, 95);
+    text-size-adjust: 7px;
+}
+a {
+    text-decoration:none;
+    
+    color:yellow;
+    
+}
+a:hover{
+    color:gray;
+}
